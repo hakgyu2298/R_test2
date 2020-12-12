@@ -1,0 +1,8 @@
+# R 외부 파일 데이터 불러오기 실습용 데이터셋
+# 파일 이름: dataset_1.txt
+cust_id, last_name, age
+1, Kim, 32
+2, Lee, 29
+3, Choi, 45
+4, Park, 38
+5, Lim,
