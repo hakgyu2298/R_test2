@@ -1,0 +1,6 @@
+cust_id,last_name,age, gender
+1, Kim,32, M
+2, Lee,29, F
+3, Choi,45, F
+4, Park,38, M
+5, Lim,NA, F
