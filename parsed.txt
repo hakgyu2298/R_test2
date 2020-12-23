@@ -1,0 +1,13 @@
+id,color_cd,color,bin_start,bin_end,bin_range
+AAA,a,red,0,100,"[0,100)"
+AAA,b,blue,100,200,"[100,200)"
+AAA,a,red,200,300,"[200,300)"
+AAA,b,blue,300,400,"[300,400)"
+BBB,a,red,0,250,"[0,250)"
+BBB,b,blue,250,350,"[250,350)"
+BBB,a,red,350,450,"[350,450)"
+BBB,b,blue,450,550,"[450,550)"
+BBB,a,red,550,650,"[550,650)"
+BBB,b,blue,650,750,"[650,750)"
+BBB,a,red,750,800,"[750,800)"
+BBB,b,blue,800,910,"[800,910)"
